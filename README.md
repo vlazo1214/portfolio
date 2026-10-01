@@ -3,7 +3,10 @@
 <!-- TODO: link these -->
 ## Table of contents
 - Data analysis
+- Python
 - SQL
+
+```|<<fill>|<<fill>>|<<fill>>             |```
 
 ## Data analysis
 | Project link | Skills utilized | Description |
@@ -11,6 +14,13 @@
 |[Flight ticket price inference analysis](https://github.com/daucf23/STA5703_Group_Project)|<<fill>>                 |Mention something about the result that was uncovered what factors contributedand how tools/tech were used led to the answer|
 |[Hurricane factors inference analysis](https://github.com/vlazo1214/hurricane-analysis/tree/dev)|<<fill>>|<<fill>>             |
 |[Pokemon Image Classification](https://github.com/vlazo1214/pokemon-image-classification)|Data Cleaning, scikit-learn, random forest, Neural Networks (NN), Convolutional Neural Networks (CNN)|<<fill>>             |
+
+https://github.com/vlazo1214/code-repair-FE
+## Python
+| Project link | Skills utilized | Description |
+|--------------|-----------------|-------------|
+|Code repair with LLMs|<<fill>>|<<fill>>             |
+|Put NRC here .?|<<fill>>|<<fill>>             |
 
 ## SQL
 | Project link | Areas explored | Description |
