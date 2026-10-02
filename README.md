@@ -6,20 +6,22 @@
 - Python
 - SQL
 
-```|<<fill>|<<fill>>|<<fill>>             |```
+<!-- |<<fill>|<<fill>>|<<fill>>             |-->
+
+
 
 ## Data analysis
 | Project link | Skills utilized | Description |
 |--------------|-----------------|-------------|
-|[Flight ticket price inference analysis](https://github.com/daucf23/STA5703_Group_Project)|<<fill>>                 |Mention something about the result that was uncovered what factors contributedand how tools/tech were used led to the answer|
+|[Flight ticket price inference analysis](https://github.com/vlazo1214/flight_ticket_inference)|Machine Learning, Ensemble Methods, Statistical Analysis, Data Preprocessing, Model Tuning, Regression Analysis, Python, Jupyter Notebooks, Data Visualization|I worked on a machine learning project to predict airline ticket fares using ensemble regression methods. The project involves loading and preprocessing flight-search data, selecting numeric predictors, and comparing different ensemble approaches including bagging, random forest, and gradient boosting to estimate the remainder__totalFare target variable. The workflow includes splitting data into training, validation, and test sets, tuning hyperparameters with cross-validation, and evaluating model quality using metrics such as RMSE, MAE, MSE, and R-squared. The analysis also involves checking residual behavior and model diagnostics to understand how different ensemble tree methods can accurately estimate flight pricing based on attributes like departure/arrival airports, cabin type, travel duration, seat availability, distance, and timing variables.|
 |[Hurricane factors inference analysis](https://github.com/vlazo1214/hurricane-analysis/tree/dev)|<<fill>>|<<fill>>             |
 |[Pokemon Image Classification](https://github.com/vlazo1214/pokemon-image-classification)|Data Cleaning, scikit-learn, random forest, Neural Networks (NN), Convolutional Neural Networks (CNN)|<<fill>>             |
 
-https://github.com/vlazo1214/code-repair-FE
+
 ## Python
 | Project link | Skills utilized | Description |
 |--------------|-----------------|-------------|
-|Code repair with LLMs|<<fill>>|<<fill>>             |
+|[Code repair with LLMs](https://github.com/vlazo1214/code-repair-with-llms)|<<fill>>|<<fill>>             |
 |Put NRC here .?|<<fill>>|<<fill>>             |
 
 ## SQL
