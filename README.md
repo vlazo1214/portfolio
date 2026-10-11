@@ -3,7 +3,7 @@
 <!-- TODO: link these -->
 ## Table of contents
 - [Data analysis](#data-analysis)
-<!-- - [Senior Design (Computer Science)](#senior-design-computer-science) -->
+- [Senior Design (Computer Science)](#senior-design-computer-science) 
 - [SQL](#sql)
 
 <!-- |<<fill>|<<fill>>|<<fill>>             |-->
@@ -20,10 +20,10 @@
 
 
 
-<!-- # Senior Design (Computer Science)
+# Senior Design (Computer Science)
 | Project link | Skills utilized | Description |
 |--------------|-----------------|-------------|
-|[Code repair with LLMs](https://github.com/vlazo1214/code-repair-with-llms)|Large Language Models, API Development, Backend Engineering, Session Management, Code Analysis, File Processing, WebSocket Communication, Python, FastAPI, Hugging Face Transformers, JWT Authentication, Docker|Worked with a team of classmates to develop a backend system for automated code repair and analysis powered by Large Language Models. The project features a FastAPI REST API and WebSocket infrastructure for accepting uploaded source code, organizing it into session-based workflows, and executing a configurable pipeline of repair and analysis steps. The implementation includes secure session management with JWT tokens, asynchronous file processing, real-time bidirectional communication, and integration with Hugging Face embeddings and transformer models for semantic code understanding. The system supports multi-file uploads, archives, and maintains persistent session directories for pipeline execution tracking.| -->
+|[Code repair with LLMs](https://github.com/vlazo1214/code-repair-with-llms)|Large Language Models, API Development, Backend Engineering, Session Management, Code Analysis, File Processing, WebSocket Communication, Python, FastAPI, Hugging Face Transformers, JWT Authentication, Docker|Worked with a team of classmates to develop a backend system for automated code repair and analysis powered by Large Language Models. The project features a FastAPI REST API and WebSocket infrastructure for accepting uploaded source code, organizing it into session-based workflows, and executing a configurable pipeline of repair and analysis steps. The implementation includes secure session management with JWT tokens, asynchronous file processing, real-time bidirectional communication, and integration with Hugging Face embeddings and transformer models for semantic code understanding. The system supports multi-file uploads, archives, and maintains persistent session directories for pipeline execution tracking.|
 
 # SQL
 | Project link | Areas explored | Description |
